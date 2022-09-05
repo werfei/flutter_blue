@@ -15,7 +15,7 @@ dependencies:
   convert: ^2.1.1
   protobuf: ^1.0.1
   rxdart: ^0.25.0
-  collection: ^1.14.13
+  collection: ^1.14.12
   meta: ^1.1.8
 
 dev_dependencies:
